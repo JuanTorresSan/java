@@ -5,5 +5,5 @@
  */
 
 $("#oprimir").click(function(){
-    alert("Me has apachurrado!!!!")
+    alert("HolaHola Fer Te Quiero <3 c:!!!!")
 })
